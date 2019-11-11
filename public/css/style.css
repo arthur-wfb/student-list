@@ -1,0 +1,19 @@
+.header {
+    padding: 10px;
+}
+
+.logo {
+    margin-left: 10px;
+    color: #007bff;
+    text-align: center;
+}
+
+.profile {
+    background-color:  #007bff;
+    padding: 5px 0 5px 0;
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+}
