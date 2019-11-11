@@ -1,5 +1,7 @@
 # student-list
 
+Simple application of students list with registration.
+
 # Requirements
 * PHP >= 7.1
 * MySQL >=5.6
