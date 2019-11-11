@@ -1,5 +1,4 @@
 # student-list
-
 Simple application of students list with registration.
 
 # Requirements
